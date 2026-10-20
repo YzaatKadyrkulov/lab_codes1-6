@@ -55,7 +55,7 @@ class Volcano(Mountain):
 
 
 # вершины и вулканы в одном списке
-peaks = [git remote add origin https://github.com/YzaatKadyrkulov/lab_codes1-6.git
+peaks = [
     Peak('Пик Победы', 7439, 'Кыргызстан', 1938, 5, 'ледовый', 18),
     Peak('Пик Ленина', 7134, 'Кыргызстан/Таджикистан', 1928, 3, 'смешанный', 14),
     Peak('Пик Корона', 4860, 'Кыргызстан', 1954, 2, 'скальный', 8),
